@@ -5,7 +5,7 @@
     <li>🏢Atualmente sou presidente da empresa júnior OCCAM Engenharia;</li>
     <li>⌨️Programo em C e Java;</li>
     <li>📖Estou aprendendo sobre JavaScript e Python no momento;</li>
-    <li>🍒Possuo conhecimento básico em microcontroladores</li>
+    <li>🍒Possuo conhecimento básico em Raspberry Pi;</li>
     <li>🤖Pretendo começar a estudar inteligência artificial e machine learning num futuro muito próximo;</li>
     <li>🌎Falo inglês, espanhol e estou estudando francês.</li>
 </ul>
