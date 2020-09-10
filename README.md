@@ -1,7 +1,17 @@
-### Hi there 👋
+<h1> Olá, meu nome é Luan Escudeiro </h1>
+<ul>
+    <li>🎓Sou formado em eletrônico em nível técnico pela ETEC Takashi Morita;</li>
+    <li>🏫Estudo engenharia de computação na UTFPR;</li>
+    <li>🏢Atualmente sou presidente da empresa júnior OCCAM Engenharia;</li>
+    <li>📖Estou aprendendo sobre JavaScript e Python no momento;</li>
+    <li>🤖Pretendo começar a estudar inteligência artificial e machine lerning num futuro muito próximo;</li>
+    <li>🌎Falo inglês, espanhol e estou estudando francês.</li>
+</ul>
 
-<!--
-**Luan-Escudeiro/Luan-Escudeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Contatos</h1>
+
+
+
 
 Here are some ideas to get you started:
 
