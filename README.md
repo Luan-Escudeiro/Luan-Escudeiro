@@ -2,7 +2,6 @@
 <ul>
     <li>🎓Sou formado em eletrônica em nível técnico pela ETEC Takashi Morita;</li>
     <li>🏫Estudo engenharia de computação na UTFPR;</li>
-    <li>🏢Atualmente sou presidente da empresa júnior OCCAM Engenharia;</li>
     <li>⌨️Programo em C e Java;</li>
     <li>📖Estou aprendendo sobre JavaScript e Python no momento;</li>
     <li>🍒Possuo conhecimento básico em Raspberry Pi;</li>
