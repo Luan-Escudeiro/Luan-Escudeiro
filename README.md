@@ -1,12 +1,10 @@
 <h1> Olá, meu nome é Luan Escudeiro </h1>
 <ul>
-    <li>🎓Sou formado em eletrônica em nível técnico pela ETEC Takashi Morita;</li>
     <li>🏫Estudo engenharia de computação na UTFPR;</li>
     <li>⌨️Programo em C e Java;</li>
-    <li>📖Estou aprendendo sobre JavaScript e Python no momento;</li>
-    <li>🍒Possuo conhecimento básico em Raspberry Pi;</li>
-    <li>🤖Pretendo começar a estudar inteligência artificial e machine learning num futuro muito próximo;</li>
-    <li>🌎Falo inglês, espanhol e estou estudando francês.</li>
+    <li>Trabalho como analista em desenvolvimento de back-end para CRM;</li>
+    <li>🤖Possuo conhecimentos em machine learning e no momento estou estudando mais a fundo PNL;</li>
+    <li>🌎Falo inglês fluentemente.</li>
 </ul>
 
 <h1>Contatos</h1>
